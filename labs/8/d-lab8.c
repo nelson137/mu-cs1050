@@ -139,7 +139,6 @@ void reverseArray(float *arr, int len) {
 
 
 int main(void) {
-    printf("18! = %d\n", factorial(18));
     int x = getNum("Enter a value to compute the Maclaurin Series of (x): ");
     printf("\n");
     int len = getNum("Enter the number of elements of the Maclaurin Series to calculate (n): ");
